@@ -24,8 +24,10 @@
 ![code-quiz-scores](code-quiz-scores.png)
 
 ### Deployed application on github:
+https://poly-singh.github.io/Code_quiz_homework/
 
 ### Repository url:
+https://github.com/poly-singh/Code_quiz_homework
 
 
 
